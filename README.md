@@ -63,7 +63,7 @@ Contribuições, sugestões ou feedbacks são muito bem-vindos! Caso tenha algum
 ---
 Este projeto está sob a licença MIT.
 
-Alairjr7 , [Linkedin](www.linkedin.com/in/alaairjrr) 
+Alairjr7 , [Linkedin](https://www.linkedin.com/in/alaairjrr) 
 
 
    
